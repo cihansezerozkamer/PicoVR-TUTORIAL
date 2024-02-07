@@ -1,0 +1,4 @@
+repository "VRLEARN@sezersezo37@cloud"
+  path "/"
+    br "/main"
+    co "/main"
